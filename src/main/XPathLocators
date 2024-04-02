@@ -1,0 +1,20 @@
+Register page:
+
+
+Sign ip header - //h4[@class='text-center mb-4']
+
+Username input - //input[@formcontrolname='username']
+
+email input - //input[@formcontrolname='email']
+
+Password input - //input[@formcontrolname='password']	or	//input[@id='defaultRegisterFormPassword']
+
+Confirm Password input - //input[@formcontrolname='confirmPassword']	or	//input[@id='defaultRegisterPhonePassword']
+
+Sign in button - //button[@id='sign-in-button']
+
+Home header button - //a[@id='nav-link-home']
+
+Login header button - //a[@id='nav-link-login']
+
+iSkillo header button - //button[@class='navbar-toggler']
